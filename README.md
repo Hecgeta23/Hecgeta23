@@ -3,7 +3,7 @@
   <img src="TU_URL_DE_IMAGEN_AQUI" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hola, soy <strong>Héctor</strong></h1>
+<h1 align="center">👋 Hola, soy <strong>Héctor De Paz</strong></h1>
 
 <p align="center">
   Desarrollador apasionado por crear soluciones prácticas con Flutter, Java y tecnologías modernas.  
@@ -52,13 +52,13 @@
 ## 📌 Proyectos destacados
 
 ### 🔹 Proyecto 1 — *Rural Fest*
-Descripción breve del proyecto: qué hace, para qué sirve y qué tecnologías usaste.  
-📂 **Repositorio:** https://github.com/Hecgeta23/rural_fest  
+Rural Fest es una aplicación móvil desarrollada en Flutter que permite a los usuarios descubrir, crear y gestionar fiestas y festividades en zonas rurales. La aplicación utiliza Supabase como backend para autenticación y base de datos.  
+📂 **Repositorio:** https://github.com/Hecgeta23/rural_fest_app
 
 ---
 
 ### 🔹 Proyecto 2 — *Minimalist Social*
-Explica desafíos, herramientas y objetivo del proyecto.  
+Una red social minimalista donde solo puedes subir una foto al día. Comparte tu mejor momento, sin filtros ni presión, y descubre cómo viven los demás a través de una única instantánea diaria.  
 📂 **Repositorio:** https://github.com/Hecgeta23/minimalist_social  
 
 ---

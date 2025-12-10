@@ -51,17 +51,15 @@
 
 ## 📌 Proyectos destacados
 
-### 🔹 Proyecto 1 — *Título del proyecto*
+### 🔹 Proyecto 1 — *Rural Fest*
 Descripción breve del proyecto: qué hace, para qué sirve y qué tecnologías usaste.  
-🔗 **Demo:** https://  
-📂 **Repositorio:** https://github.com/Hecgeta23/proyecto1  
+📂 **Repositorio:** https://github.com/Hecgeta23/rural_fest  
 
 ---
 
-### 🔹 Proyecto 2 — *Título del proyecto*
+### 🔹 Proyecto 2 — *Minimalist Social*
 Explica desafíos, herramientas y objetivo del proyecto.  
-🔗 **Demo:** https://  
-📂 **Repositorio:** https://github.com/Hecgeta23/proyecto2  
+📂 **Repositorio:** https://github.com/Hecgeta23/minimalist_social  
 
 ---
 

@@ -1,13 +1,13 @@
-<!-- Banner principal -->
+<!-- Banner principal (cambia la URL por tu imagen; si no quieres banner, borra esta sección) -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/banner.png" alt="Banner" width="100%" />
+  <img src="TU_URL_DE_IMAGEN_AQUI" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hola, soy <strong>Tu Nombre</strong></h1>
 
 <p align="center">
-  Desarrollador enfocado en crear soluciones claras, eficientes y escalables.  
-  Apasionado por Java, desarrollo web y buenas prácticas de ingeniería.
+  Desarrollador enfocado en crear proyectos prácticos usando Flutter, Java y herramientas modernas.  
+  También trabajo con hardware, impresión 3D y automatización.
 </p>
 
 ---
@@ -15,17 +15,18 @@
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,spring,git,maven,linux,postgresql" />
+  <img src="https://skillicons.dev/icons?i=flutter,supabase,java,html,css,arduino,python,git,mysql,androidstudio" />
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 💻 Trabajo principalmente con **Java**, **HTML**, **Spring Boot** y bases de datos.  
-- 📚 Me gusta aprender nuevas tecnologías y mejorar proyectos existentes.  
-- 🛠 Disfruto crear aplicaciones limpias, ordenadas y mantenibles.  
-- 🌱 En constante crecimiento como desarrollador.
+- 💻 Desarrollo apps con **Flutter**, **Java** y **Android Studio**.  
+- 🛠 Experiencia con **Arduino**, sensores, automatización y proyectos maker.  
+- 📦 Manejo de **Bases de datos MySQL** y **Supabase**.  
+- 🧩 Me interesa la integración entre software, hardware e impresión 3D.  
+- 🌱 En constante aprendizaje y creación de proyectos útiles.
 
 ---
 
@@ -49,18 +50,14 @@
 ## 📌 Proyectos destacados
 
 ### 🔹 Proyecto 1 — *Título del proyecto*
-<p>
-Descripción breve y clara explicando qué hace, qué tecnologías usa y por qué es interesante.
-</p>
+Descripción breve del proyecto. Explica qué hace y qué tecnologías usaste.  
 🔗 **Demo:** https://  
 📂 **Repo:** https://github.com/your-username/proyecto1  
 
 ---
 
 ### 🔹 Proyecto 2 — *Título del proyecto*
-<p>
-Descripción del proyecto, desafíos técnicos y resultados.
-</p>
+Explica desafíos, herramientas y objetivo del proyecto.  
 🔗 **Demo:** https://  
 📂 **Repo:** https://github.com/your-username/proyecto2  
 
@@ -76,5 +73,5 @@ Descripción del proyecto, desafíos técnicos y resultados.
 ---
 
 <p align="center">
-  ⭐ Si te sirve mi trabajo, ¡no dudes en darle una estrella a mis repositorios!
+  ⭐ Si te sirve mi trabajo, ¡no dudes en apoyar mis repos!
 </p>

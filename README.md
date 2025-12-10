@@ -33,8 +33,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hecgeta23&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hecgeta23&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🏆 Logros & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hecgeta23&theme=darkhub&no-bg=true&margin-w=10&row=1" />
 </p>
 
 ---

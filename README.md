@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="TU_URL_DE_IMAGEN_AQUI" alt="Banner" width="100%" />
+  <img src="github-header-banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hola, soy <strong>Héctor De Paz</strong></h1>
